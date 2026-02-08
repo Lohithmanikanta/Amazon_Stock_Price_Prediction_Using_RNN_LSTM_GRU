@@ -44,7 +44,6 @@ yfinance
 Clone this repository
 
 git clone https://github.com/Lohithmanikanta/Amazon\_Stock\_Price\_Prediction\_Using\_RNN\_LSTM\_GRU/
-cd stockprice
 
 
 
